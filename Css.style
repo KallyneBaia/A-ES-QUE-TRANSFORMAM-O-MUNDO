@@ -1,0 +1,9 @@
+/* Style for "Ações que transformam o mundo" heading */
+H1 {
+  font-size: 36px;
+}
+
+/* Style for "Ações que transformam o mundo" paragraph */
+P {
+  font-size: 24px;
+}
